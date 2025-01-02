@@ -1,0 +1,22 @@
+{
+    "name": "educational-ar-vr-app",
+    "version": "1.0.0",
+    "description": "Interactive educational experience using AR/VR.",
+    "main": "index.js",
+    "dependencies": {
+      "react": "^17.0.2",
+      "react-dom": "^17.0.2",
+      "aframe": "^1.2.0",
+      "ar.js": "^3.0.0",
+      "three": "^0.135.0"
+    },
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
+    },
+    "author": "Iréné Amessouwoe",
+    "license": "MIT"
+  }
+  
