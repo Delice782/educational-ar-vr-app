@@ -1,4 +1,4 @@
-    
+     
 # Educational AR/VR App
 
 An interactive educational app that uses **AR (Augmented Reality)** and **VR (Virtual Reality)** to teach various subjects like chemistry, history, and more through immersive 3D models and environments.
